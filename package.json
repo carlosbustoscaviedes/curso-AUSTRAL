@@ -1,0 +1,19 @@
+{
+  "name": "curso_austral",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto NODEJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbustoscaviedes/curso-AUSTRAL.git"
+  },
+  "author": "carlos bustos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbustoscaviedes/curso-AUSTRAL/issues"
+  },
+  "homepage": "https://github.com/carlosbustoscaviedes/curso-AUSTRAL#readme"
+}
