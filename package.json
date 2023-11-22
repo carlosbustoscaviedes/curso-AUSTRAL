@@ -4,6 +4,7 @@
   "description": "nuestro primer proyecto NODEJS",
   "main": "index.html",
   "scripts": {
+    "dev" : "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/carlosbustoscaviedes/curso-AUSTRAL/issues"
   },
-  "homepage": "https://github.com/carlosbustoscaviedes/curso-AUSTRAL#readme"
+  "homepage": "https://github.com/carlosbustoscaviedes/curso-AUSTRAL#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
